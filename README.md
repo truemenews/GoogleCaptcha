@@ -34,7 +34,7 @@ Google Captcha Version 2 vs Version 3
 -----------------------
 
     4.1 Add Virtual host for you project
-        example You're using XAMPP: D:\Xampp\apache\conf\extra\httpd-vhosts.conf
+        + example You're using XAMPP: D:\Xampp\apache\conf\extra\httpd-vhosts.conf
         ```
             <VirtualHost captcha.local:80>
                 DocumentRoot "D:/Projects/captcha"
@@ -51,14 +51,13 @@ Google Captcha Version 2 vs Version 3
             </VirtualHost> 
         ```
 
-    4.2 You have to create new facade corresponding
-            D:\YourFolder\CallStatic\yourweb\facade\ProcessFacade.php and extends CallStatic class
+        + Restart apache
 
-    4.3 Register alias 
-        at D:\YourFolder\CallStatic\yourweb\config\alias.php
+    4.2 Set site/secret key on your project
+            D:\YourFolder\GoogleCaptcha\test\config.php
 
-
-    4.4 Run test file D:\YourFolder\CallStatic\yourweb\index.php
-        for test, you will Process call static sumAll()
------------------------
+    4.3 Run test
+            http://captcha.local/test
+                |_v2: http://captcha.local/test/recaptcha-v2-checkbox.php
+                |_v3: http://captcha.local/test/recaptcha-v3-request-scores.php
 
