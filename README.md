@@ -1,8 +1,9 @@
-| 1. Introduction
+1 Introduction
 ----------------
 Google Captcha Version 2 vs Version 3
 
-| 2. Directory Struct
+
+2 Directory Struct
 -----------------------
 
     Root
@@ -19,7 +20,7 @@ Google Captcha Version 2 vs Version 3
 -----------------------
 
 
-| 3. Step by step do it
+3 Step by step do it
 -----------------------
 
     3.1 Clone/download GoogleCaptcha folder to your computer
@@ -30,7 +31,7 @@ Google Captcha Version 2 vs Version 3
 
 -----------------------
 
-| 4. Config virtual host
+4 Config virtual host
 -----------------------
 
     4.1 Add Virtual host for you project
@@ -61,3 +62,23 @@ Google Captcha Version 2 vs Version 3
                 |_v2: http://captcha.local/test/recaptcha-v2-checkbox.php
                 |_v3: http://captcha.local/test/recaptcha-v3-request-scores.php
 
+5 Search Google:
+--------------
+    > Lazada TrueMe
+    > Youtube TrueMe
+    > Tiktok TrueMe 
+    > Sendo TrueMe
+
+Sites:
+--------------
+> https://www.youtube.com/@TrueMeNews
+> https://www.tiktok.com/@truemenews
+> https://www.lazada.vn/shop/suatruemilk
+> https://github.com/truemenews
+> https://www.sendo.vn/shop/truemilk
+
+Tags:
+--------------
+#TrueMe #trueme #true_me #SendoTrueMe #sendo_trueme #sendo_true_me
+#TrueMeNews #truemenews #true_me_news #TrueMilk #truemilk #true_milk #YoutubeTrueme #youtube_trueme #youtubetrueme #LazadaTrueme #lazada_trueme #lazadatrueme 
+#TiktokTrueme #tiktok_trueme #tiktoktrueme #tet #visa #mastercard #thetindung #tragop #tragop0% 
